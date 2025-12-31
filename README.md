@@ -1,4 +1,4 @@
-#  Facebeat – Mood Based Music Player 🎶
+#  Facebeat
 
 Facebeat is an AI-powered desktop application that detects your **facial expression** using your webcam and plays **matching Telugu songs** based on your mood in real-time. It’s built with OpenCV, Deep Learning, and Python magic!
 
@@ -14,7 +14,7 @@ Facebeat is an AI-powered desktop application that detects your **facial express
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - Python 🐍
 - OpenCV for face detection
 - Deep Learning (Keras/TensorFlow) for emotion recognition
@@ -22,7 +22,7 @@ Facebeat is an AI-powered desktop application that detects your **facial express
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/jefanniel/Facebeat.git
