@@ -15,7 +15,7 @@ Facebeat is an AI-powered desktop application that detects your **facial express
 ---
 
 ## Tech Stack
-- Python 🐍
+- Python
 - OpenCV for face detection
 - Deep Learning (Keras/TensorFlow) for emotion recognition
 - Playsound / VLC for song playback
